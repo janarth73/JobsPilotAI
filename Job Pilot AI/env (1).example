@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────────────
+# JobScraper Pro — Configuration File
+# ─────────────────────────────────────────────────────
+# 1. Rename this file to .env
+# 2. Fill in your actual values
+# 3. Never share this file or upload to GitHub
+# ─────────────────────────────────────────────────────
+
+# ── Authentication ────────────────────────────────────
+# Admin login credentials
+ADMIN_USERNAME=Janarth
+ADMIN_PASSWORD=Janarth@auth
+
+# Extra users (optional) — format: name:password,name2:password2
+# EXTRA_USERS=john:pass123,jane:pass456
+
+# ── API Keys ──────────────────────────────────────────
+# JSearch API — get free key at rapidapi.com
+JSEARCH_API_KEY=4eede404d8mshd4ad77b57bcf8aap164caajsne32dbf9274c4
+
+# Groq AI — get free key at console.groq.com
+GROQ_API_KEY=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
+
