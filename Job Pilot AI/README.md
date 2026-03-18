@@ -1,4 +1,4 @@
-# Job Scraper Pro v2
+# Job Pilot AI
 
 ## Setup
 ```
