@@ -1,0 +1,29 @@
+database:
+  url: sqlite:///jobs.db
+email:
+  recipient_email: ''
+  sender_email: ''
+  sender_password: ''
+  smtp_host: smtp.gmail.com
+  smtp_port: 587
+filters:
+  keywords:
+  - Python Developer
+  - Data Scientist
+  - Software Engineer
+  - TESTING ENGINEER
+  - Data Analyst
+  - Machine Learning Engineer
+  - Frontend Developer
+  locations:
+  - Bangalore
+  - Chennai
+  - Remote
+  - DUBAI
+  - Pune
+  - Kolkata
+  - Coimbatore
+  - Kochi
+  max_jobs: 20
+jsearch:
+  api_key: 4eede404d8mshd4ad77b57bcf8aap164caajsne32dbf9274c4
