@@ -10,3 +10,4 @@ pdfplumber
 scikit-learn
 Pillow
 APScheduler
+python-dotenv
